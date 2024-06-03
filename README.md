@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Daniel Wanjala.
-- 👀 I’m interested in 
-- 🌱 I’m currently learning full stack web development.
-- 💞️ I’m looking to collaborate on open source projects and learn new things.
-- 📫 How to reach me [https://t.me/daneto]- Telegram | [wanjalad003gmail.com]- email account|
--                
+# Daniel Wanjala
+
+**Frontend Developer | Cybersecurity Enthusiast**
+
+[wanjalad003@gmail.com](mailto:wanjalad003@gmail.com) | +254746748557 | [LinkedIn](https://www.linkedin.com/in/daniel-wanjala-556129226/)
+
+
 
 <!---
 daniel-wanjala/daniel-wanjala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
